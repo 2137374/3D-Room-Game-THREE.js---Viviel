@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FinalProject</title>
+</head>
+<style>
+    #menu-start, #menu-settings, #pause-menu, #game-settings{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        display: none;
+        text-align: center;
+    }
+    .menu-background {
+    background-image: url('src/assets/textures/wallpaper.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    }
+    .menu-content {
+    background-color: rgba(0, 150, 255, 0.8);
+    border: 5px solid black;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    max-width: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    }
+    .menu-content h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color: white;
+    }
+    .menu-content button {
+    font-size: 1.5em;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    border-radius: 5px;
+    }
+    .menu-content button:hover {
+    background-color: black;
+    color: white;
+    }
+    .menu-content label {
+    display: block;
+    margin: 10px 0;
+    color: white;
+    }
+    .menu-background {
+        display: none;
+    }
+    .menu-background.active {
+        display: flex;
+    }
+</style>
+<style>
+    #game-over-menu{
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        display: none;
+        text-align: center;
+    }
+</style>
+<style>
+    #success-menu{
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        display: none;
+        text-align: center;
+        cursor: pointer;
+    }
+</style>
+<body>
+    <div id="menu-start" class="menu-background">
+        <div class="menu-content">
+            <h1>START</h1>
+            <button id="startButton">start game</button>
+            <button id="settingsButton">settings</button>
+        </div>
+    </div>
+
+    <div id="menu-settings" class="menu-background">
+        <div class="menu-content">
+            <h1>SETTINGS</h1>
+            <label>
+                <input type="checkbox" id="fullscreenOption"> Fullscreen
+            </label>
+            <button id="backButton">back to menu</button>
+        </div>
+    </div>
+
+    <div id="pause-menu">
+        <h1>PAUSED</h1>
+        <button id="resumeButton">resume</button>
+        <button id="pauseSettingsButton">settings</button>
+        <button id="quitButton">quit</button>
+    </div>
+
+    <div id="game-over-menu" style="display: none;">
+        <h1>GAME OVER</h1>
+        <button id="restartButton">restart</button>
+    </div>
+
+    <div id="game-settings">
+        <h1>SETTINGS</h1>
+        <label>
+            <input type = "checkbox" id="fullscreenOptionGame"> fullscreen
+        </label>
+        <button id="applySettingsButton">Apply</button>
+    </div>
+
+    <div id="success-menu" style="display: none;">
+        <h1>Congratulations!</h1>
+        <p>you have successfully completed the game!</p>
+    </div>
+
+    <link rel="icon" type="image/x-icon" href="viviel.ico">
+    <script type="importmap">
+    {
+        "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@0.163.0/build/three.module.js",
+            "three/examples/jsm/loaders/GLTFLoader.js": "https://cdn.jsdelivr.net/npm/three@0.163.0/examples/jsm/loaders/GLTFLoader.js",
+            "three/examples/jsm/loaders/FBXLoader.js": "https://cdn.jsdelivr.net/npm/three@0.163.0/examples/jsm/loaders/FBXLoader.js",
+            "cannon-es": "https://cdn.jsdelivr.net/npm/cannon-es@0.20.0/dist/cannon-es.js",
+            "stats.js": "https://cdnjs.cloudflare.com/ajax/libs/stats.js/r17/Stats.min.js",
+            "dat.gui": "https://cdn.jsdelivr.net/npm/dat.gui@0.7.6/build/dat.gui.module.js"
+        }
+    }
+    </script>
+    <script type="module" src="main.js"></script>
+</html>

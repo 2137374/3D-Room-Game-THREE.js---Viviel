@@ -1,0 +1,13 @@
+- PROBLEMA DI RENDERIZZAZIONE -----------
+    tentativo di riduzione costo computazionale
+        - scala modelli ?
+        - texture compresse ?
+        - gltfpack per ridurre dimensioni texture ?
+        - .traverse method, con minFilter, generateMipMaps, needsUpdate
+            dovrebbe rodirre l'utilizzo di memoria, applicabile solo a modelli con una material.map disponibile
+
+- PROBLEMA DI ANIMAZIONE ----------------
+    implementazione di repository per inverse and direct kinematic
+
+- PROBLEMA POSE DI BASE -----------------
+    implementazione di gui per impostare il personaggio in maniera da poter salvare le pose in files json e caricarle

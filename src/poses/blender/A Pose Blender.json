@@ -1,0 +1,507 @@
+{
+    "RL_BoneRoot": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Hip": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Pelvis": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Thigh": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Calf": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Foot": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_ToeBaseShareBone": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_ToeBase": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_PinkyToe1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_RingToe1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_MidToe1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_IndexToe1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_BigToe1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_CalfTwist01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_CalfTwist02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_KneeShareBone": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_ThighTwist01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_ThighTwist02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Thigh": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_ThighTwist01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_ThighTwist02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Calf": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Foot": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_ToeBase": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_PinkyToe1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_BigToe1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_IndexToe1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_MidToe1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_RingToe1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_ToeBaseShareBone": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_KneeShareBone": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_CalfTwist01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_CalfTwist02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Waist": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Spine01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Spine02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_NeckTwist01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_NeckTwist02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Head": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_FacialBone": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_JawRoot": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Tongue01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Tongue02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Tongue03": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Teeth02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Eye": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Eye": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_UpperJaw": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_Teeth01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Clavicle": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Upperarm": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Forearm": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_ForearmTwist01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_ForearmTwist02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_ElbowShareBone": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Hand": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Mid1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Mid2": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Mid3": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Index1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Index2": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Index3": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Ring1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Ring2": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Ring3": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Pinky1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Pinky2": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Pinky3": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Thumb1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Thumb2": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Thumb3": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_UpperarmTwist01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_UpperarmTwist02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Clavicle": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Upperarm": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_UpperarmTwist01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_UpperarmTwist02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Forearm": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_ForearmTwist01": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_ForearmTwist02": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_ElbowShareBone": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Hand": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Mid1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Mid2": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Mid3": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Ring1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Ring2": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Ring3": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Thumb1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Thumb2": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Thumb3": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Index1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Index2": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Index3": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Pinky1": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Pinky2": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Pinky3": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_RibsTwist": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_R_Breast": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_RibsTwist": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    },
+    "CC_Base_L_Breast": {
+        "rotation_x": 0.0,
+        "rotation_y": -0.0,
+        "rotation_z": 0.0
+    }
+}

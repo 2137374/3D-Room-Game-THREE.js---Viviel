@@ -1,0 +1,11 @@
+Model Information:
+* title:	petal flower rose
+* source:	https://sketchfab.com/3d-models/petal-flower-rose-65aaa97c69d74384a36ff9ee5a4e7e5f
+* author:	genka9634 (https://sketchfab.com/genka9634)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "petal flower rose" (https://sketchfab.com/3d-models/petal-flower-rose-65aaa97c69d74384a36ff9ee5a4e7e5f) by genka9634 (https://sketchfab.com/genka9634) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

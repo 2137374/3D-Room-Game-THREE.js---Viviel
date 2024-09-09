@@ -1,0 +1,11 @@
+Model Information:
+* title:	Blender 3D for Jobseekers - Pedestal Example
+* source:	https://sketchfab.com/3d-models/blender-3d-for-jobseekers-pedestal-example-4812321b0c2a43ab8df117fb383a5319
+* author:	Laurie Annis (https://sketchfab.com/laurieannis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Blender 3D for Jobseekers - Pedestal Example" (https://sketchfab.com/3d-models/blender-3d-for-jobseekers-pedestal-example-4812321b0c2a43ab8df117fb383a5319) by Laurie Annis (https://sketchfab.com/laurieannis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

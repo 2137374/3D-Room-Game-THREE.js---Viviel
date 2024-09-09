@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gold Revolver low poly
+* source:	https://sketchfab.com/3d-models/gold-revolver-low-poly-f35077e69b034c198fd23ef1878a9594
+* author:	Faber (https://sketchfab.com/muertoHambre)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gold Revolver low poly" (https://sketchfab.com/3d-models/gold-revolver-low-poly-f35077e69b034c198fd23ef1878a9594) by Faber (https://sketchfab.com/muertoHambre) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
