@@ -1,3 +1,10 @@
+/**
+ * @license
+ * VivielGame
+ * Copyright (c) 2024 [Leonardo Sandri]. All Rights Reserved.
+ * Proprietary and Confidential - See LICENSE file for details
+ */
+
 import * as THREE from 'three';
 import { CCDIKSolver } from '/node_modules/three/examples/jsm/Addons.js';
 import { WalkCycleLoader } from '/src/animations/walkCycleLoader.js';

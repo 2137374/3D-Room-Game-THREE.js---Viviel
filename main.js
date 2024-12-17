@@ -1,3 +1,10 @@
+/**
+ * @license
+ * VivielGame
+ * Copyright (c) 2024 [Leonardo Sandri]. All Rights Reserved.
+ * Proprietary and Confidential - See LICENSE file for details
+ */
+
 import { scene, camera, renderer } from './src/scenes/sceneSetup.js';
 import { world } from './src/scenes/physicsSetup.js';
 import { setupEnvironment } from './src/scenes/environment.js';
