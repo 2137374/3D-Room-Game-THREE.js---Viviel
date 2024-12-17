@@ -2,7 +2,7 @@
 
 A 3D adventure game built with Three.js, developed as a project for the Interactive Graphics course at Sapienza University of Rome, given by Professor Paolo Russo.
 
-![Game Screenshot](/assets/textures/wallpaper.png)
+![Game Screenshot](/src/assets/textures/wallpaper.png)
 
 ## 🎮 Game Overview
 
