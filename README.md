@@ -212,4 +212,4 @@ This software includes third-party assets subject to their respective licenses:
 This game was developed as a project for the Interactive Graphics course at Sapienza University of Rome. All rights reserved.
 
 ## 🤝 Contributing
-[Contribution guidelines]
+No contribution is considered by now, if interested contact me at leonardosandri99@gmail.com
