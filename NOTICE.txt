@@ -1,0 +1,91 @@
+VivielGame
+Copyright (c) 2024 [Il tuo nome]
+
+This software contains both proprietary components and third-party components with their respective licenses.
+
+Proprietary Components:
+- viviel.ico
+- wallpaper.png
+- Main Character 3D Model (Created in collaboration with Francesco Renica)
+
+This software includes the following third-party components:
+
+Libraries:
+---------
+Three.js
+Copyright (c) 2010-2024 Three.js Authors
+License: MIT
+
+Cannon.js
+Copyright (c) 2015 Stefan Hedman
+License: MIT
+
+dat.GUI
+Copyright (c) 2011 Data Arts Team, Google Creative Lab
+License: Apache License 2.0
+
+stats.js
+Copyright (c) 2009-2016 Mr.doob
+License: MIT
+
+3D Models and Assets:
+--------------------
+1. Skeleton Character PSX
+   Source: https://sketchfab.com/3d-models/skeleton-character-psx-ece576bbed4b4364911c7596d828a558
+   Used in: Enemy character model
+
+2. Gold Revolver Low Poly
+   Source: https://sketchfab.com/3d-models/gold-revolver-low-poly-f35077e69b034c198fd23ef1878a9594
+   Used in: Player weapon
+
+3. Door Model
+   Source: https://sketchfab.com/3d-models/door-2738468b94d74c5f827e7e5df7be8359
+   Used in: Room transitions
+
+4. Black Rose
+   Source: https://sketchfab.com/3d-models/black-rose-b2cd9e577cfb4986946773cee5f641ad
+   Used in: Central game mechanic
+
+5. Pedestal
+   Source: https://sketchfab.com/3d-models/blender-3d-for-jobseekers-pedestal-example-4812321b0c2a43ab8df117fb383a5319
+   Used in: Environment objects
+
+6. Cardboard Boxes
+   Sources: 
+   - https://sketchfab.com/3d-models/cardboard-box-a30803bf02f341a484cecd88daa780f1
+   - https://sketchfab.com/3d-models/set-of-cardboard-boxes-8986ba512f704ac5b253286a0d1ad8bb
+   Used in: Environment decoration
+
+7. Flower Assets
+   Sources:
+   - https://sketchfab.com/3d-models/generic-narcissus-flower-cf16e483ce7b4b9281b62366d9b1e52c
+   - https://sketchfab.com/3d-models/petal-flower-rose-65aaa97c69d74384a36ff9ee5a4e7e5f
+   Used in: Game collectibles and decoration
+
+8. Additional Environment Models
+   Sources:
+   - Round Stand: https://sketchfab.com/3d-models/round-stand-free-5734834b9c0d436c9b581cf2257666bf
+   - Gun Targets: https://sketchfab.com/3d-models/gun-targets-eb9fbe283faa41ef8685359a0769d303
+   - Pumpkins Model: https://sketchfab.com/3d-models/pumpkins-model-577dd8241f4846988e068aeefb189346
+   - Marble Vase: https://sketchfab.com/3d-models/marble-vase-low-poly-42b3ce5985974be986f52dcca5b590ef
+   Used in: Various environment decorations and game elements
+
+Texture Packs:
+-------------
+More Pumpkin Faces
+Source: https://www.planetminecraft.com/texture-pack/more-pumpkin-faces/
+Used in: NPC character textures
+
+Educational Resources:
+--------------------
+Third Person Camera Implementation
+Reference: https://www.youtube.com/watch?v=EkPfhzIbp2g&list=PLRL3Z3lpLmH0aqLDbfh0ZmnDkpXPDnTau&index=7
+Used for: Camera system implementation
+
+Special Acknowledgements:
+-----------------------
+- Professor Paolo Russo - Interactive Graphics Course, Sapienza University of Rome
+- Francesco Renica - Character Design Collaboration
+  LinkedIn: https://it.linkedin.com/in/francesco-renica-451401305
+
+All rights to third-party components belong to their respective owners and are used under their original licenses. Any use of this software must respect both the proprietary license of VivielGame and the individual licenses of all third-party components listed above.
